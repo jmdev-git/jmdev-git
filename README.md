@@ -1,6 +1,6 @@
 # Hello World!, I'm JMDev, a Next.js dev from Pangasinan
 
-👨🏼‍💻 find me also [here](https://www.tiktok.com/@jmdiv10)<br> 👨🏼‍🚀 working as a full stack web developer since 2022.
+Welcome to my playground! I've been coding since 2020, exploring ideas, building projects, and continuously improving my skills along the way.My Portfolio Website is still a work in progress, but it already showcases the projects, experiments, and systems I've created through hands-on learning and real-world practice — this is where I share my journey as a developer.
 
 
 ### 💻 Tech Stack:
