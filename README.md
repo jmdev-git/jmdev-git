@@ -4,7 +4,7 @@
 
 # Hello World!, I'm JMDev, a Next.js dev from Philippines
 
-Welcome to my playground! I've been coding since 2020, exploring ideas, building projects, and continuously improving my skills along the way.My Portfolio Website is still a work in progress, but it already showcases the projects, experiments, and systems I've created through hands-on learning and real-world practice — this is where I share my journey as a developer.
+Welcome to my playground! I've been coding since 2020, exploring ideas, building projects, and continuously improving my skills along the way. This GitHub profile showcases the projects, experiments, and systems I've created through hands-on learning and real-world practice — this is where I share my journey as a developer.
 
 
 ### 💻 Tech Stack:
